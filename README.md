@@ -14,7 +14,7 @@ This project focuses on **semantic HTML structure** without using any CSS or Jav
 
 ### 📸 Screenshots
 
-Resume-Page.png
+[Resume-Page.png](https://github.com/Muhammad-Abdullah-codes/HTML-Resume-Page-Assignment/blob/main/Resume-Page.png)
 
 ---
 
